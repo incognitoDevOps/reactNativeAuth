@@ -9,13 +9,29 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.22.1",
+    "@react-navigation/bottom-tabs": "^6.5.12",
+    "@react-navigation/native": "^6.1.10",
+    "@react-navigation/native-stack": "^6.9.18",
+    "@react-navigation/stack": "^6.3.21",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
     "expo": "~50.0.7",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-loading-spinner-overlay": "^3.0.1",
+    "react-native-reanimated": "^3.7.1",
+    "react-native-user-avatar": "^1.0.8",
+    "react-native-vector-icons": "^10.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "description": "npm install @react-navigation/native@latest @react-navigation/bottom-tabs@latest react-native-reanimated@latest react-native-gesture-handler@latest @react-navigation/stack@latest react-native-vector-icons@latest react-native-gesture-handler@latest react-native-reanimated@latest",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

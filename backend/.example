@@ -1,0 +1,3 @@
+MONGO_URI = mongodb+srv://db:dbpassword@cluster0.hfdt1.mongodb.net/
+JWT_SECRET = thisIsjustarandom3479numberandleters
+
