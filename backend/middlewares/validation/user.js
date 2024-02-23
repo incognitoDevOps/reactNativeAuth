@@ -1,3 +1,7 @@
+// author 
+//brian adams
+// @23 Feb, 2024
+
 const { check, validationResult } = require('express-validator');
 
 exports.validateUserSignUp = [

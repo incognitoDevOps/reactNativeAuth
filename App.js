@@ -1,3 +1,7 @@
+// author 
+//brian adams
+// @23 Feb, 2024
+
 import React from 'react';
 import {StatusBar, Text, View,StyleSheet} from 'react-native';
 import Navigation from './components/Navigation';

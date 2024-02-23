@@ -1,3 +1,7 @@
+// author 
+//brian adams
+// @23 Feb, 2024
+
 import React, {useContext} from 'react';
 import {Button, StyleSheet, Text, View} from 'react-native';
 import Spinner from 'react-native-loading-spinner-overlay';

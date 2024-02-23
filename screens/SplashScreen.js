@@ -1,3 +1,7 @@
+// author 
+//brian adams
+// @23 Feb, 2024
+
 import React from 'react';
 import {StyleSheet,ActivityIndicator, View} from 'react-native';
 

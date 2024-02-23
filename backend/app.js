@@ -1,3 +1,7 @@
+// author 
+//brian adams
+// @23 Feb, 2024
+
 const express = require('express');
 require('dotenv').config();
 require('./models/db');
